@@ -1,1 +1,2 @@
-# custom-chatbot
+# Custom Chatbot
+This is a udacity learner project where I assembled a "Custom Chatbot". It essentially demonstrates an ability to wrangle a dataset into a usable format, embed the data using openai's API's, search accross the embedding space using cosine similarity. Lastly I assembled the a prompt that included context (the results from the cosine search) and made completion calls using openai's compleation method.
